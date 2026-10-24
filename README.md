@@ -1,6 +1,6 @@
 # Hi, I'm Magesh 👋
 
-###Aspiring Data Scientist
+### Aspiring Data Scientist
 
 I am interested in Data Science, Data Analytics, and Machine Learning.
 I enjoy working with data, building Python projects, and finding
