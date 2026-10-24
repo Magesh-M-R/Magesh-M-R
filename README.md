@@ -1,8 +1,12 @@
 # Hi, I'm Magesh 👋
 
-Aspiring Data Scientist
+###Aspiring Data Scientist
 
-## Skills
+I am interested in Data Science, Data Analytics, and Machine Learning.
+I enjoy working with data, building Python projects, and finding
+useful insights from datasets.
+
+## 📊 My Projects
 - Python
 - SQL
 - Pandas
@@ -12,10 +16,16 @@ Aspiring Data Scientist
 - Machine Learning
 - Power BI
 
-## My Projects
+## 📊 My Projects
 - IPL Data Analysis
 - Brain Tumor Classificaon
 
-## About Me
-I am learning Data Science and building
-projects to improve my skills.
+## 🎯 Career Goal
+To build my career in Data Science and Data Analytics
+by developing practical projects and improving my technical skills.
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn URL
+- Email: mageshrajakumaran10@gmail.com
+
