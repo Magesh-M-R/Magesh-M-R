@@ -26,6 +26,5 @@ by developing practical projects and improving my technical skills.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
 - Email: mageshrajakumaran10@gmail.com
 
