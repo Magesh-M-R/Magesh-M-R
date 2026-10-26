@@ -6,7 +6,7 @@
 
 - I work on practical projects in data analytics, visualization, and machine learning while continuously strengthening my technical skills.
 
-## 📊 My Projects
+## 📊 Technical Skills
 - Python
 - SQL
 - Pandas
@@ -15,6 +15,9 @@
 - Seaborn
 - Machine Learning
 - Power BI
+## 🛠️ Featured projects
+- IPL Analysis
+- Brain Tumor Classification
 
 ## 🎯 Career Goal
 To build my career in Data Science and Data Analytics
@@ -23,4 +26,4 @@ by developing practical projects and improving my technical skills.
 ## 📫 Connect With Me
 
 - Email: mageshrajakumaran10@gmail.com
-
+- Linkedin: www.linkedin.com/in/magesh-m-r
