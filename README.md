@@ -18,7 +18,7 @@ useful insights from datasets.
 
 ## 📊 My Projects
 - IPL Data Analysis
-- Brain Tumor Classificaon
+- Brain Tumor Classification
 
 ## 🎯 Career Goal
 To build my career in Data Science and Data Analytics
