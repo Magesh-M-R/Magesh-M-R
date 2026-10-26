@@ -2,9 +2,9 @@
 
 ### Aspiring Data Scientist
 
-I am interested in Data Science, Data Analytics, and Machine Learning.
-I enjoy working with data, building Python projects, and finding
-useful insights from datasets.
+-I'm passionate about using data to discover meaningful insights, solve problems, and support data-driven decision-making.
+
+-I work on practical projects in data analytics, visualization, and machine learning while continuously strengthening my technical skills.
 
 ## 📊 My Projects
 - Python
@@ -15,10 +15,6 @@ useful insights from datasets.
 - Seaborn
 - Machine Learning
 - Power BI
-
-## 📊 My Projects
-- IPL Data Analysis
-- Brain Tumor Classification
 
 ## 🎯 Career Goal
 To build my career in Data Science and Data Analytics
