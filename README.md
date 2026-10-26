@@ -2,9 +2,9 @@
 
 ### Aspiring Data Scientist
 
--I'm passionate about using data to discover meaningful insights, solve problems, and support data-driven decision-making.
+- I'm passionate about using data to discover meaningful insights, solve problems, and support data-driven decision-making.
 
--I work on practical projects in data analytics, visualization, and machine learning while continuously strengthening my technical skills.
+- I work on practical projects in data analytics, visualization, and machine learning while continuously strengthening my technical skills.
 
 ## 📊 My Projects
 - Python
