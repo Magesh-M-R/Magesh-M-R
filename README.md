@@ -1,10 +1,10 @@
-# Hi, I'm Magesh 👋
+## Hi, I'm Magesh 👋
 
 ### Aspiring Data Scientist
 
-- I'm passionate about using data to discover meaningful insights, solve problems, and support data-driven decision-making.
+I'm passionate about using data to discover meaningful insights, solve problems, and support data-driven decision-making.
 
-- I work on practical projects in data analytics, visualization, and machine learning while continuously strengthening my technical skills.
+I work on practical projects in data analytics, visualization, and machine learning while continuously strengthening my technical skills.
 
 ## 📊 Technical Skills
 
@@ -17,6 +17,7 @@
 - Machine Learning: Classification and predictive modeling
 
 ## 🛠️ Featured projects
+
 ## 1. IPL Data Analysis Dashboard
 
   - Tools: Power BI, Data Analysis
@@ -43,8 +44,8 @@
 
 
 ## 🎯 Career Goal
-To build my career in Data Science and Data Analytics
-by developing practical projects and improving my technical skills.
+
+My goal is to build a career in Data Science and Data Analytics by developing practical projects, exploring real-world datasets, and applying analytical techniques to meaningful problems.
 
 ## 📫 Connect With Me
 
