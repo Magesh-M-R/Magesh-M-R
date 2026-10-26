@@ -7,17 +7,40 @@
 - I work on practical projects in data analytics, visualization, and machine learning while continuously strengthening my technical skills.
 
 ## 📊 Technical Skills
-- Python
-- SQL
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Machine Learning
-- Power BI
+
+- Programming: Python, SQL
+
+- Data Analysis: Pandas, NumPy, Exploratory Data Analysis
+
+- Data Visualization: Matplotlib, Seaborn, Power BI
+
+- Machine Learning: Classification and predictive modeling
+
 ## 🛠️ Featured projects
-- IPL Analysis
-- Brain Tumor Classification
+## 1. IPL Data Analysis Dashboard
+
+  - Tools: Power BI, Data Analysis
+
+  - An IPL data analysis project focused on exploring cricket statistics and presenting insights through an interactive dashboard.
+
+  ## Project highlights:
+
+  * Analyze IPL data to identify patterns and trends.
+  * Explore player and team performance statistics.
+  * Present findings through data visualizations and dashboards.
+
+## 2. Brain Tumor Detection Using Machine Learning
+
+  - Tools: Python, Machine Learning
+
+  - A machine learning project focused on brain tumor classification using medical imaging data.
+
+  ## Project highlights:
+
+  * Explore and prepare image data for analysis.
+  * Apply machine learning techniques for image classification.
+  * Evaluate model performance using appropriate metrics.
+
 
 ## 🎯 Career Goal
 To build my career in Data Science and Data Analytics
